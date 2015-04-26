@@ -1,0 +1,19 @@
+tidy_data.csv
+
+subject  
+    subject id, through 1 to 30  
+activity
+    activity names:
+        WALKING
+        WALKING_UPSTAIRS 
+        WALKING_DOWNSTAIRS 
+        SITTING 
+        STANDING 
+        LAYING
+tBodyAcc-mean()-X
+    accelerometer measure; time of body on x-axis.
+.
+.
+.
+.
+.
