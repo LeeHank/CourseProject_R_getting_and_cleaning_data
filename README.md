@@ -1,13 +1,13 @@
-This file is describing how the script works.
-My script will use these eight files:
-1. activity_labels.txt
-2. features.txt
-3. subject_train.txt
-4. X_train.txt 
-5. y_train.txt
-6. subject_test.txt
-7. X_test.txt
-8. y_test.txt
+This file is describing how the script works.  
+My script will use these eight files:  
+1. activity_labels.txt  
+2. features.txt  
+3. subject_train.txt  
+4. X_train.txt   
+5. y_train.txt  
+6. subject_test.txt  
+7. X_test.txt  
+8. y_test.txt  
 
 So, I recommand that you could put these file in your working directory first,
 and run the script file named "run_analysis.R".
