@@ -22,7 +22,7 @@ Here is the decription of my script:
 #read data
 ##########
 
-##train_data <-read.table("X_train.txt")
+###train_data <-read.table("X_train.txt")
 ##train_subject <- scan("subject_train.txt")
 ##train_activity <- scan("y_train.txt")
 ##test_data <-read.table("X_test.txt")
